@@ -2,3 +2,10 @@
 
 node_modules
 /src/generated/prisma
+
+/src/generated/prisma
+
+# Uploads
+uploads/
+.env
+dist/
